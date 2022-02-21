@@ -1,7 +1,7 @@
 const bot = new Telegram(env.token);
 
 function setWebhook() {
-    let url = "https://script.google.com/macros/s/AKfycbwoj17Ush9uNIwduPfLJjAF2Ginur1yQj32kc8UOVeJz-ERYaDikPssMJHyVwgoghZ1/exec";
+    let url = env.webhook;
     bot.setWebhook(url)
 }
 

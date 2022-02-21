@@ -16,7 +16,7 @@
 const app = {
     "name": "Kamus Besar Bahasa Indonesia",          // ganti nama bot
     "username": "eKBBIbot",                          // ganti username bot
-    "version": "2.12",                               // ganti versi bot
+    "version": "2.15",                               // ganti versi bot
     "site": "https://kbbi.web.id/",
     "author": "@kreasisaya"
 }

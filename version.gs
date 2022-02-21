@@ -5,8 +5,6 @@
  * 
  * merupakan KBBI Daring (Dalam Jaringan / Online tidak resmi) yang dibuat untuk memudahkan pencarian,
  * penggunaan dan pembacaan arti kata (lema/sub lema)
- *
- * @muhsinalr
  * 
  * Kota Palembang, 06 Februari 2022
  */
@@ -19,7 +17,8 @@ const app = {
     "name": "Kamus Besar Bahasa Indonesia",          // ganti nama bot
     "username": "eKBBIbot",                          // ganti username bot
     "version": "2.12",                               // ganti versi bot
-    "site": "https://kbbi.web.id/"
+    "site": "https://kbbi.web.id/",
+    "author": "@kreasisaya"
 }
 
 const env = {
